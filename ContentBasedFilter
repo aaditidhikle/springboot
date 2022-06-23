@@ -1,4 +1,4 @@
-public class ContentBasedFilter {
+public class ContentBasedFilter implements Filter {
 
 	public String[] getRecommendations(String movie) {
 		
